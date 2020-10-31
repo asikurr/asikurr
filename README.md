@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Hi, I am Md Asikur Rahaman
+# I am Md Asikur Rahaman
 ##### React JS Developer
 <br />
 
