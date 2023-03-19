@@ -4,7 +4,7 @@
 ##### React JS Developer
 <br />
 
-Hi, I'm [Md Asikur Rahaman](https://asikur-portfolio.netlify.app/), a React Js Developer 🚀 from Bangladesh, currently, I have experience efficiently coding websites and applications using modern HTML5, CSS3, SASS, Flexbox, CSS Grid, bootstrap4, and JavaScript and JS library like ReactJs, Redux. and Familiar with API, MongoDB, MySql.
+Hi, I'm [Md Asikur Rahaman](https://asikur-portfolio.netlify.app/), a Full Stack Asp.net Core MVC Developer 🚀 from Bangladesh, currently, I have experience efficiently coding websites and applications using modern HTML5, CSS3, SASS, Flexbox, CSS Grid, bootstrap4, Asp.net and JavaScript and Angular, JS library like ReactJs. and Familiar with Web API, Oracle, Sql Server.
 
 <!-- https://github.com/asikurr/asikurr/blob/master/code.gif?raw=true -->
   <img align="right" alt="GIF" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/source.gif" width="500" height="320" />
@@ -13,8 +13,8 @@ Hi, I'm [Md Asikur Rahaman](https://asikur-portfolio.netlify.app/), a React Js D
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working with React Js :wink:;
-- 🌱 I’m currently learning Python, Data Analysis and Python Django ; 
+- 👨🏽‍💻 I’m currently working with Full Stack Asp.net Core MVC Developer :wink:;
+- 🌱 I’m currently learning Asp.net Core and Angular ; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@asikur2](https://twitter.com/asikur2);
 - 📝[Resume](https://drive.google.com/file/d/1tdI2voHYWHlycc-bQglWRVryUZbzm4qN/view?usp=sharing)
@@ -23,9 +23,9 @@ Hi, I'm [Md Asikur Rahaman](https://asikur-portfolio.netlify.app/), a React Js D
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
