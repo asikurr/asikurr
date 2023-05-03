@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # I am Md Asikur Rahaman
-##### React JS Developer
+##### Full Stack Asp.net Core Developer
 <br />
 
 Hi, I'm [Md Asikur Rahaman](https://asikur-portfolio.netlify.app/), a Full Stack Asp.net Core MVC Developer 🚀 from Bangladesh, currently, I have experience efficiently coding websites and applications using modern HTML5, CSS3, SASS, Flexbox, CSS Grid, bootstrap4, Asp.net and JavaScript and Angular, JS library like ReactJs. and Familiar with Web API, Oracle, Sql Server.
