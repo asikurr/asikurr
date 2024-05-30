@@ -16,8 +16,8 @@ Hi, I'm [Md Asikur Rahaman](https://asikur-portfolio.netlify.app/), a Full Stack
 - 👨🏽‍💻 I’m currently working with Full Stack Asp.net Core MVC Developer :wink:;
 - 🌱 I’m currently learning Asp.net Core and Angular ; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@asikur2](https://twitter.com/asikur2);
-- 📝[Resume](https://drive.google.com/file/d/1tdI2voHYWHlycc-bQglWRVryUZbzm4qN/view?usp=sharing)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asikur-cse/);
+- 📝[Resume](https://drive.google.com/file/d/16-9FLOYJq4CoKcv6FZBgQaRAO5wNfAdm/view?usp=sharing)
 
 <br />
 
